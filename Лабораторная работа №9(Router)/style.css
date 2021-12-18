@@ -1,0 +1,38 @@
+.header {
+  padding: 20px;
+  margin-right: 10px;
+  margin-top: 180px;
+  margin-left: 475px;
+}
+
+.header a {
+  background: #0066FF;
+  padding: 15px;
+  margin-right: 0px;
+  color: black;
+}
+button {
+  background: black;
+  width: 90px;
+  height: 50px;
+  color: white;
+  margin-left: 10px;
+}
+
+.form {
+  margin-left: 500px;
+}
+
+input {
+  border-bottom: 1px solid black;
+  margin: 10px 0px 10px;
+  height: 25px;
+  outline: none;
+}
+.profile {
+  margin-left: 500px;
+}
+.mainPage {
+  margin-top: 30px;
+  margin-left: 525px;
+}
